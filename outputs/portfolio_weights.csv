@@ -1,0 +1,9 @@
+Ticker,Weight,Asset_Class,Weight_Pct
+AGG,0.02,US Bonds,2.0
+EEM,0.02,Emerging Markets,2.0
+EFA,0.02,Developed Markets,2.0
+GLD,0.4,Gold,40.0
+PDBC,0.1,Commodities,10.0
+SPY,0.4,US Equities,40.0
+TLT,0.02,Long-term Bonds,2.0
+VNQ,0.02,REITs,2.0
