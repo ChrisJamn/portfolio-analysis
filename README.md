@@ -191,9 +191,3 @@ Computed 60-day rolling correlation of each ETF vs SPY to identify:
 - Extend to include individual stocks alongside ETFs
 - Add factor exposure analysis (Fama-French 3-factor model)
 - Implement rolling window reoptimization to reduce regime sensitivity
-
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md saved successfully")
