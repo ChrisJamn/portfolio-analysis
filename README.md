@@ -187,7 +187,4 @@ Computed 60-day rolling correlation of each ETF vs SPY to identify:
 
 ## Potential Improvements
 - Incorporate transaction costs and rebalancing frequency into backtest
-- Add regime detection (e.g. Hidden Markov Model) for dynamic rebalancing
-- Extend to include individual stocks alongside ETFs
-- Add factor exposure analysis (Fama-French 3-factor model)
 - Implement rolling window reoptimization to reduce regime sensitivity
