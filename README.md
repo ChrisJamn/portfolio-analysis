@@ -182,6 +182,9 @@ Computed 60-day rolling correlation of each ETF vs SPY to identify:
 3. Open `portfolio_analysis.ipynb` in VS Code
 4. Run all cells (`Run All`)
 5. Open `dashboard/portfolio_dashboard.pbix` in Power BI Desktop
+6. Update the `FolderPath` parameter to match your local `outputs/` folder location:
+   `Transform data → Manage Parameters → Edit Parameters → FolderPath`
+7. Click **Refresh** to load the data
 
 ---
 
